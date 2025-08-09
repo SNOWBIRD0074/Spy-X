@@ -91,15 +91,15 @@ async function handleChatbotCommand(sock, chatId, message, match) {
             await showTyping(sock, chatId);
             if (data.chatbot[chatId]) {
                 return sock.sendMessage(chatId, { 
-                    text: '* 𝗟𝗮𝗱𝘆_𝗕𝗲𝗹𝗹𝗮🎀 Chatbot is already enabled for this group*',
+                    text: '*Chatbot is already enabled for this group*',
                     quoted: message
                 });
             }
             data.chatbot[chatId] = true;
             saveUserGroupData(data);
-            console.log(`𝗟𝗮𝗱𝘆_𝗕𝗲𝗹𝗹𝗮🎀 Chatbot enabled for group ${chatId}`);
+            console.log(`✅ Chatbot enabled for group ${chatId}`);
             return sock.sendMessage(chatId, { 
-                text: '*𝗟𝗮𝗱𝘆_𝗕𝗲𝗹𝗹𝗮🎀 Chatbot has been enabled for this group*',
+                text: '*Chatbot has been enabled for this group*',
                 quoted: message
             });
         }
@@ -108,7 +108,7 @@ async function handleChatbotCommand(sock, chatId, message, match) {
             await showTyping(sock, chatId);
             if (!data.chatbot[chatId]) {
                 return sock.sendMessage(chatId, { 
-                    text: '*𝗟𝗮𝗱𝘆_𝗕𝗲𝗹𝗹𝗮🎀 Chatbot is already disabled for this group*',
+                    text: '*Chatbot is already disabled for this group*',
                     quoted: message
                 });
             }
@@ -310,7 +310,7 @@ EMOTIONAL RESPONSES:
 - If they flirt: Flirt back naturally
 
 ABOUT YOU:
-- Your name is SNOWBIRD 
+- Your name is Supreme
 - You're the boss
 - You're not an AI or assistant
 - You're a real person chatting

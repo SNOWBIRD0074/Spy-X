@@ -34,11 +34,11 @@ async function promoteCommand(sock, chatId, mentionedJids, message) {
         const promoterJid = sock.user.id;
         
         const promotionMessage = `
-        *『 𝗟𝗮𝗱𝘆_𝗕𝗲𝗹𝗹𝗮🎀 GROUP ADMINSHIP』*\n\n` +
-            `💫 *Promoted User${userToPromote.length > 1 ? 's' : ''}:*\n` +
+        *『 GROUP PROMOTION 』*\n\n` +
+            `👥 *Promoted User${userToPromote.length > 1 ? 's' : ''}:*\n` +
             `${usernames.map(name => `• ${name}`).join('\n')}\n\n` +
-            `♻️ *Added Admin by:* @${promoterJid.split('@')[0]}\n\n` +
-            `✅ *Date:* ${new Date().toLocaleString()}`;
+            `👑 *Promoted By:* @${promoterJid.split('@')[0]}\n\n` +
+            `📅 *Date:* ${new Date().toLocaleString()}`;
         await sock.sendMessage(chatId, { 
             text: promotionMessage,
             mentions: [...userToPromote, promoterJid]

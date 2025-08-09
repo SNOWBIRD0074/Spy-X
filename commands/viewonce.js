@@ -10,7 +10,7 @@ const channelInfo = {
         isForwarded: false,
         forwardedNewsletterMessageInfo: {
             newsletterJid: '120363399707841760@newsletter',
-            newsletterName: '𝗟𝗮𝗱𝘆_𝗕𝗲𝗹𝗹𝗮🎀',
+            newsletterName: '_𝗟𝗮𝗱𝘆_𝗕𝗲𝗹𝗹𝗮🎀',
             serverMessageId: -1
         }
     }
@@ -75,7 +75,7 @@ async function viewOnceCommand(sock, chatId, message) {
                 
                 await sock.sendMessage(chatId, { 
                     image: buffer,
-                    caption: `*𝗟𝗮𝗱𝘆_𝗕𝗲𝗹𝗹𝗮🎀*\n\n*ViewOnce:* Image 📸\n${caption ? `*Caption:* ${caption}` : ''}`,
+                    caption: `*_𝗟𝗮𝗱𝘆_𝗕𝗲𝗹𝗹𝗮🎀*\n\n*ViewOnce:* Image 📸\n${caption ? `*Caption:* ${caption}` : ''}`,
                     ...channelInfo
                 });
                 console.log('_View once image processed successfully_');
@@ -117,7 +117,7 @@ async function viewOnceCommand(sock, chatId, message) {
 
                 await sock.sendMessage(chatId, { 
                     video: fs.readFileSync(tempFile),
-                    caption: `*𝗟𝗮𝗱𝘆_𝗕𝗲𝗹𝗹𝗮🎀*\n\n*ViewOnce* Video 📹\n${caption ? `*Caption:* ${caption}` : ''}`,
+                    caption: `*_𝗟𝗮𝗱𝘆_𝗕𝗲𝗹𝗹𝗮🎀*\n\n*ViewOnce* Video 📹\n${caption ? `*Caption:* ${caption}` : ''}`,
                     ...channelInfo
                 });
 

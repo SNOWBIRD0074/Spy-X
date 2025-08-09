@@ -18,7 +18,7 @@ async function tagCommand(sock, chatId, senderId, messageText, replyMessage) {
     const { isSenderAdmin, isBotAdmin } = await isAdmin(sock, chatId, senderId);
 
     if (!isBotAdmin) {
-        await sock.sendMessage(chatId, { text: '𝗟𝗮𝗱𝘆_𝗕𝗲𝗹𝗹𝗮🎀 has to be an admin first.' });
+        await sock.sendMessage(chatId, { text: 'Please make the bot an admin first.' });
         return;
     }
 

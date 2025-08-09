@@ -7,7 +7,7 @@ const channelInfo = {
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
         newsletterJid: '120363399707841760@newsletter',
-        newsletterName: '𝙲𝚢𝚋𝚎𝚛𝚍𝚎𝚟𝚜 𝙼ᴅ',
+        newsletterName: '𝗟𝗮𝗱𝘆_𝗕𝗲𝗹𝗹𝗮🎀',
         serverMessageId: -1
     }
 };
@@ -20,7 +20,7 @@ const messageTemplates = {
     }),
     success: (text, imageUrl) => ({
         image: { url: imageUrl },
-        caption: "𝐉ᴜɴᴇ 𝐌ᴅ watsApp Bot",
+        caption: "𝗟𝗮𝗱𝘆_𝗕𝗲𝗹𝗹𝗮🎀",
         contextInfo: channelInfo
     })
 };

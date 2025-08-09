@@ -21,7 +21,7 @@ async function imagineCommand(sock, chatId, message) {
 
         // Send processing message
         await sock.sendMessage(chatId, {
-            text: '𝗟𝗮𝗱𝘆_𝗕𝗲𝗹𝗹𝗮🎀 Generating your image... Please wait.'
+            text: '🎨 Generating your image... Please wait.'
         }, {
             quoted: message
         });

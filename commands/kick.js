@@ -7,7 +7,7 @@ async function kickCommand(sock, chatId, senderId, mentionedJids, message) {
         const { isSenderAdmin, isBotAdmin } = await isAdmin(sock, chatId, senderId);
 
         if (!isBotAdmin) {
-            await sock.sendMessage(chatId, { text: '𝗟𝗮𝗱𝘆_𝗕𝗲𝗹𝗹𝗮🎀 bot have to be an admin first.' }, { quoted: message });
+            await sock.sendMessage(chatId, { text: 'Please make the bot an admin first.' }, { quoted: message });
             return;
         }
 

@@ -6,7 +6,7 @@ async function getppCommand(sock, chatId, message) {
         const isOwner = message.key.fromMe; // Fixed variable name from 'msg' to 'message'
         if (!isOwner) {
             await sock.sendMessage(chatId, { 
-                text: '😡 Command only for the owner.' 
+                text: '😡Command only for the owner.' 
             });
             return;
         }
@@ -24,7 +24,7 @@ async function getppCommand(sock, chatId, message) {
         
         if (!userToAnalyze) {
             await sock.sendMessage(chatId, { 
-                text: 'Please mention someone or reply to their message to get their profile picture!'
+                text: 'Please mention someone or reply to their message to get their profile picture🫴'
                 });
             return;
         }
@@ -41,18 +41,18 @@ async function getppCommand(sock, chatId, message) {
             // Send the profile picture to the chat
             await sock.sendMessage(chatId, {
                 image: { url: profilePic },
-                caption: `The profile picture of @${userToAnalyze.split('@')[0]}`,
+                caption: `\n\n _🔸 hey 👋 Sucess in getting profile of: @${userToAnalyze.split('@')[0]} ✅._`,
                 mentions: [userToAnalyze]
             });
 
         } catch (error) {
-            console.error('Error in getpp command:', error);
+            console.error('⚠️Error in getpp command:', error);
             await sock.sendMessage(chatId, {
-                text: 'Failed to retrieve profile picture. The user might not have one set.'
+                text: '🉐Failed to retrieve profile picture. The user might not have one set.'
             });
         }
     } catch (error) {
-        console.error('Unexpected error in getppCommand:', error);
+        console.error('⚠️Unexpected error in getppCommand:', error);
     }
 }
 

@@ -168,7 +168,7 @@ async function stickerTelegramCommand(sock, chatId, msg) {
 
             // Only send completion message at the end
             await sock.sendMessage(chatId, { 
-                text: `✅𝗟𝗮𝗱𝘆_𝗕𝗲𝗹𝗹𝗮🎀 Successfully downloaded ${successCount}/${stickerSet.result.stickers.length} stickers!` 
+                text: `✅ Successfully downloaded ${successCount}/${stickerSet.result.stickers.length} stickers!` 
             });
 
         } catch (error) {
