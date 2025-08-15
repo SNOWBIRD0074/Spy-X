@@ -21,13 +21,13 @@ zokou({ nomCom: "videologo", categorie: "modern-logo", reaction: "✋" }, async 
 3 ➠ intro video 📷
 4 ➠ tiger 🐯 video logo
 
-*its Sky-X  enjoy using me💙💜*`;
+*its Spy-X  enjoy using me💙💜*`;
 
     const contextInfo = {
       mentionedJid: [ms.sender], // Mention the sender
       externalAdReply: {
-        title: "Sky-X",
-        body: "SNOWBIRD,
+        title: "Spy-X",
+        body: "Regards, SNOWBIRD",
         thumbnailUrl: "https://files.catbox.moe/d0pwu0.jpg",
         sourceUrl: "https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C",
         mediaType: 1,

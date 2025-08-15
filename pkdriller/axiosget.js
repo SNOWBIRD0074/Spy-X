@@ -21,7 +21,7 @@ zokou({
       text: news,
       contextInfo: {
         externalAdReply: {
-          title: "Sky-X NEWS",
+          title: "Spy-X NEWS",
           body: "keep learning", 
           thumbnailUrl: thumbnail, 
           sourceUrl: conf.GURL, 
@@ -81,7 +81,7 @@ zokou({
     
     const data = response.data;
     const messageText = `
-ᕙ⁠ *Sky-X HOLY BIBLE* ᕗ
+ᕙ⁠ *Spy-X HOLY BIBLE* ᕗ
 
 ✿⁠ *_WE'RE READING:_* ${data.reference}
 
@@ -98,7 +98,7 @@ zokou({
       text: messageText,
       contextInfo: {
         externalAdReply: {
-          title: "Sky-X HOLY BIBLE",
+          title: "Spy-X HOLY BIBLE",
           body: `We're reading: ${data.reference}`,
           mediaType: 1,
           thumbnailUrl: "https://files.catbox.moe/ls0m1e.jpeg", 
@@ -153,7 +153,7 @@ zokou({
         text: definitionMessage,
         contextInfo: {
           externalAdReply: {
-            title: "Sky-X",
+            title: "Spy-X",
             body: `Definition of ${term}`,
             mediaType: 1,
             thumbnailUrl: "https://files.catbox.moe/ls0m1e.jpeg", 
@@ -187,7 +187,7 @@ zokou({
 
   try {
     // Notify user that pairing is in progress
-    const replyText = "*Nexus-ai is getting your pair code 🍼✅...*";
+    const replyText = "*Spy-X is getting your pair code 🍼✅...*";
     await repondre(replyText);
 
     // Prepare the API request
@@ -204,7 +204,7 @@ zokou({
         text: pairingCode,
         contextInfo: {
           externalAdReply: {
-            title: "Sky-XCODE",
+            title: "Syy-X CODE",
             body: "Here is your pairing code:",
             mediaType: 1,
             thumbnailUrl: conf.URL, 
@@ -249,7 +249,7 @@ zokou({
     const thumb = data.image; // Assuming the API returns an 'image' property for the element thumbnail
 
     const formattedMessage = `
-*Boniphace Md Element Information:*
+*Spy-X Element Information:*
 🚀 *Name:* ${data.name}
 🚀 *Symbol:* ${data.symbol}
 🚀 *Atomic Number:* ${data.atomic_number}
@@ -265,7 +265,7 @@ Regards ${conf.BOT} `;
       text: formattedMessage,
       contextInfo: {
         externalAdReply: {
-          title: "Sky-X ELEMENT INFORMATION",
+          title: "Spy-X ELEMENT INFORMATION",
           body: "Here is the information you requested:",
           mediaType: 1,
           thumbnailUrl: thumb,
@@ -291,7 +291,7 @@ zokou({
   const githubUsername = arg.join(" ");
 
   if (!githubUsername) {
-    return repondre("Give me a valid GitHub username like: github Pkdriller");
+    return repondre("Give me a valid GitHub username like: github Snowbird");
   }
 
   try {
@@ -467,7 +467,7 @@ zokou({
 
 🔗 *URL*: ${con.content_urls.mobile.page}
 
-> Powered by Sky-X 
+> Powered by Spy-X 
     `;
     repondre(texa);
   } catch (err) {

@@ -45,11 +45,11 @@ const date = moment().format('DD/MM/YYYY');
  1. Open link
  2. Enter your whatsapp number with your country code eg : 254,255. And tap submit
  3. pkdriller will sent you a code. Copy that code. Then whatsapp will sent Notification
- 4. Tap on that notification then enter in the code that pk driller sent you.
+ 4. Tap on that notification then enter in the code that snowbird sent you.
  5. It will load for sometime then pk tech will sent A long session to your inbox on whatsapp at your own number
  6. Copy that long session and sent it to your deployer.
  
- 💻enjoy💻Sky-X 
+ 💻enjoy💻Spy-X 
  `;
     
 let menuMsg = `
@@ -139,7 +139,7 @@ const date = moment().format('DD/MM/YYYY');
   `;
     
 let menuMsg = `
-     SNOWBIRD
+     SNOWBIRD DEV
 
 ❒────────────────────❒`;
 

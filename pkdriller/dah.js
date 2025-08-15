@@ -89,7 +89,7 @@ zokou({ nomCom: 'group1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap Here To Join NEXUS-AI Chatroom*. https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x `) 
+                 await repondre(`*Tap Here To Join Spy-X Chatroom*. https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C `) 
 
    
 
@@ -109,7 +109,7 @@ zokou({ nomCom: 'update',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_Nexus-ai is running on its latest vision_*`) 
+                 await repondre(`*_Spy-X is running on its latest vision_*`) 
 
    
 
@@ -129,7 +129,7 @@ zokou({ nomCom: 'vision',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_Nexus-ai_*`) 
+                 await repondre(`*_Spy-X_*`) 
 
    
 
@@ -188,8 +188,8 @@ zokou({ nomCom: 'hack2',
     "SENDING LOG DOCUMENTS...",
     "SUCCESSFULLY SENT DATA AND Connection disconnected",
     "BACKLOGS CLEARED",
-    "POWERED BY Sky-X",
-    "By Sky-X`) 
+    "POWERED BY Spy-X",
+    "By Spy-X`) 
 
    
 

@@ -18,7 +18,7 @@ module.exports = {
       if (!response) return;
 
       await conn.sendMessage(m.chat, {
-        text: `🤖 *ChatBot*\n\n${response}\n\n_Powered by Sky-X _`
+        text: `🤖 *ChatBot*\n\n${response}\n\n_Powered by Spy-X _`
       }, { quoted: m });
 
     } catch (err) {

@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *Sky-X*`
+ *NEXUS-BOT*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {

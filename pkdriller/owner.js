@@ -42,11 +42,11 @@ repondre("look on pm sir ") await zk.sendMessage(auteurMessage,{text :https://wh
 zokou({ nomCom: "developer", categorie: "General", reaction: "🚜" }, async (dest, zk, commandeOptions) => { const { ms, mybotpic } = commandeOptions;
 
 const devs = [
-  { nom: "Snowbird", numero: "263780145644" },
   { nom: "Snowbird", numero: "263710407389" },
+  { nom: "snowbird", numero: "263780145644" },
 ];
 
-let message = "*Holla Welcome to Sky-X here is the developer numbers:*\n\n";
+let message = "*Holla Welcome to Queen-M here is the developer numbers:*\n\n";
 for (const dev of devs) {
   message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
 }

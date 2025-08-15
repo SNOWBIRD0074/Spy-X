@@ -33,7 +33,7 @@ zokou(
     const end = new Date().getTime();
     const ping = end - start;
     await zk.sendMessage(dest, {
-      text: `*Sky-X IS 1000000090009999999833636633636363636*
+      text: `*Spy-X IS 1000000090009999999833636633636363636*
  *${ping} ms*`, edit: {
         id: msg.key.id, remoteJid: dest
       }});

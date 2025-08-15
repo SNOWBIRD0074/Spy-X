@@ -132,7 +132,7 @@ zokou({
     const imdbData = response.data;
 
     let imdbInfo = "THANKS ALL FOR THE SUPPORT ITS ME SNOWBIRD \n";
-    imdbInfo += " ``` Sky-X FILMS```\n";
+    imdbInfo += " ``` Spy-X FILMS```\n";
     imdbInfo += "*Made by Ibrahim Adams*\n";
     imdbInfo += "🎬Title    : " + imdbData.Title + "\n";
     imdbInfo += "📅year      : " + imdbData.Year + "\n";

@@ -31,8 +31,8 @@ zokou({
   });
   moment.tz.setDefault("Etc/GMT");
   const _0x30b447 = moment().format("DD/MM/YYYY");
-  let _0x5810f6 = "\n╭━━✧★☞  Sky-X ✧━━❖\n┊✺┌────••••────⊷\n┃★│◎ Owner : " + s.OWNER_NAME + "\n┃★│◎ Prefix : [ " + s.PREFIXE + " ]\n┃★│◎ Mode : " + _0x2fb207 + "\n┃★│◎ Ram : 8/132 GB\n┃★│◎ Date : " + _0x30b447 + "\n┃★│◎ Platform : " + os.platform() + "\n┃★│◎ Creator : SNOWBIRD\n┃★│◎ Commands : " + _0x3f91bc.length + "\n┃★│◎ Theme : Sky-X\n┊   └────••••────⊷\n╰━━━••✧Sky-X ✧••━━━◆\n";
-  let _0x499730 = "Sky-X 𝐌𝐄𝐍𝐔";
+  let _0x5810f6 = "\n╭━━✧★☞  Spy-X✧━━❖\n┊✺┌────••••────⊷\n┃★│◎ Owner : " + s.OWNER_NAME + "\n┃★│◎ Prefix : [ " + s.PREFIXE + " ]\n┃★│◎ Mode : " + _0x2fb207 + "\n┃★│◎ Ram : 8/132 GB\n┃★│◎ Date : " + _0x30b447 + "\n┃★│◎ Platform : " + os.platform() + "\n┃★│◎ Creator : SNOWBIRD\n┃★│◎ Commands : " + _0x3f91bc.length + "\n┃★│◎ Theme : Spy-X\n┊   └────••••────⊷\n╰━━━••✧Spy-X✧••━━━◆\n";
+  let _0x499730 = "Spy-X 𝐌𝐄𝐍𝐔";
   for (const _0x297db1 in _0x4b68cd) {
     _0x499730 += "\n╭━━━❂ *" + _0x297db1 + "* ❂━━─••\n║╭━━══••══━━••⊷ ";
     for (const _0x38505c of _0x4b68cd[_0x297db1]) {
@@ -40,7 +40,7 @@ zokou({
     }
     _0x499730 += "\n║╰━━══••══━━••⊷\n╰════────════◆◆◆";
   }
-  _0x499730 += "\n> @Sky-X\n";
+  _0x499730 += "\n> @Spy-X\n";
   try {
     await _0x35dd19.sendMessage(_0x466846, {
       'text': _0x5810f6 + _0x499730,
@@ -49,11 +49,11 @@ zokou({
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
           'newsletterJid': "120363399707841760@newsletter",
-          'newsletterName': "Sky-X",
+          'newsletterName': "Spy-X",
           'serverMessageId': 0x8f
         },
         'externalAdReply': {
-          'title': "Sky-X",
+          'title': "Spy-X",
           'body': "Tap to join the official channel",
           'thumbnailUrl': "https://files.catbox.moe/q99uu1.jpg",
           'mediaType': 0x1,

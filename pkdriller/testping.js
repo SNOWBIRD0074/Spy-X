@@ -18,7 +18,7 @@ zokou(
       // Send the custom message
       await zk.sendMessage(dest, {
         image: { url: fullImageUrl }, // Full image displayed at the top
-        caption: `Sky-X ALWAYS ACTIVE 🚀\n\n✨ Contact: ${contactName}\n🧎 [Visit Channel](${sourceUrl})`,
+        caption: `Spy-X ALWAYS ACTIVE 🚀\n\n✨ Contact: ${contactName}\n🧎 [Visit Channel](${sourceUrl})`,
         audio: { url: randomAudio }, // Voice note URL
         mimetype: "audio/mpeg", // Correct MIME type for audio
         ptt: true, // Send as a voice note
@@ -117,7 +117,7 @@ ezra(
     const defaultProfilePic = "https://files.catbox.moe/0vv5mg.jpeg";
 
     // WhatsApp channel source URL
-    const sourceUrl = "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f";
+    const sourceUrl = "https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C";
 
     try {
       // Randomly pick an audio file
@@ -197,7 +197,7 @@ ezra(
     const defaultProfilePic = "https://files.catbox.moe/0vv5mg.jpeg";
 
     // WhatsApp channel source URL
-    const sourceUrl = "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f";
+    const sourceUrl = "https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C";
 
     try {
       // Randomly pick an audio file

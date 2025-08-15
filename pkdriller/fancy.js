@@ -1,5 +1,5 @@
 const { zokou } = require("../framework/zokou");
-const fancy = require("../pkdriller/style");
+const fancy = require("../snowbird/style");
 
 zokou({ nomCom: "fancy", categorie: "Fun", reaction: "〽️" }, async (dest, zk, commandeOptions) => {
     const { arg, repondre, prefixe } = commandeOptions;
@@ -8,7 +8,7 @@ zokou({ nomCom: "fancy", categorie: "Fun", reaction: "〽️" }, async (dest, zk
 
     try {
         if (id === undefined || text === undefined) {
-            return await repondre(`\nExemple : ${prefixe}fancy 10 CHARLES-XMD\n` + String.fromCharCode(8206).repeat(4001) + fancy.list('CHARLES-XMD', fancy));
+            return await repondre(`\nExemple : ${prefixe}fancy 10 Spy-X\n` + String.fromCharCode(8206).repeat(4001) + fancy.list('Spy-X', fancy));
         }
 
         const selectedStyle = fancy[parseInt(id) - 1];

@@ -36,7 +36,7 @@ zokou({
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
           'newsletterJid': "120363399707841760@newsletter",
-          'newsletterName': "Sky-X",
+          'newsletterName': "Spy-X",
           'serverMessageId': 0x8f
         },
         'forwardingScore': 0x3e7,

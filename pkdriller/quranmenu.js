@@ -397,7 +397,7 @@ let menuMsg = `
             contextInfo: {
                 mentionedJid: [senderName],
                 externalAdReply: {
-                    title: "Sky-X SURAH LIST",
+                    title: "Spy-X SURAH LIST",
                     body: "Live with God my friends you don't know your tomorrow",
                     thumbnailUrl: ".https://files.catbox.moe/pdhcob.jpeg",
                     sourceUrl: "https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C",

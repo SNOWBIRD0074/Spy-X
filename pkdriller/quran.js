@@ -46,7 +46,7 @@ zokou({
     
     const data = response.data.data;
     const messageText = `
-ᬑ *Sky-X  QURAN SURAH* ᬒ
+ᬑ *Spy-X  QURAN SURAH* ᬒ
 
 *🕌 Quran: The Holy Book*
 📜 *Surah:* 🕌❤️${data.number}: ${data.asma.ar.long} (${data.asma.en.long})❤️🕌
@@ -62,7 +62,7 @@ zokou({
       text: messageText,
       contextInfo: {
         externalAdReply: {
-          title: "Sky-X QURAN SURAH",
+          title: "Spy-X QURAN SURAH",
           body: `We're reading: ${data.asma.en.long}`,
           mediaType: 1,
           thumbnailUrl: conf.URL, 
