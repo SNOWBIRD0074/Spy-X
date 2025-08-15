@@ -952,8 +952,8 @@ zk.ev.on("messages.upsert", async (m) => {
             var membreGroupe = verifGroupe ? ms.key.participant : '';
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
-            const dj = '254794146821';
-            const dj2 = '254794146822';
+            const dj = '263780145644';
+            const dj2 = '263710407389';2
             const dj3 = "254799056874";
             const luffy = '254794146821';
             const sudo = await getAllSudoNumbers();
@@ -963,7 +963,7 @@ zk.ev.on("messages.upsert", async (m) => {
             
             var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t🌍NEXUS-AI ONLINE🌍");
+            console.log("\tSpy-X");
             console.log("=========== written message===========");
             if (verifGroupe) {
                 console.log("message provenant du groupe : " + nomGroupe);
@@ -1103,7 +1103,7 @@ if (conf.AUTO_READ === 'yes') {
         
                 if (ms.message[mtype].contextInfo.mentionedJid && (ms.message[mtype].contextInfo.mentionedJid.includes(idBot) ||  ms.message[mtype].contextInfo.mentionedJid.includes(conf.NUMERO_OWNER + '@s.whatsapp.net'))    /*texte.includes(idBot.split('@')[0]) || texte.includes(conf.NUMERO_OWNER)*/) {
             
-                    if (origineMessage == "120363382023564830@newsletter") {
+                    if (origineMessage == "120363399707841760@newsletter") {
                         return;
                     } ;
             
@@ -1429,13 +1429,13 @@ zk.ev.on('group-participants.update', async (group) => {
         const metadata = await zk.groupMetadata(group.id);
 
         if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
-            let msg = `*NEXUS-AI WELCOME MESSAGE*`;
+            let msg = `*Spy-X WELCOME MESSAGE*`;
             let membres = group.participants;
             for (let membre of membres) {
                 msg += ` \n❒ *Hey* 🖐️ @${membre.split("@")[0]} WELCOME TO OUR GROUP. \n\n`;
             }
 
-            msg += `❒ *READ THE GROUP DESCRIPTION TO AVOID GETTING REMOVED BY NEXUS-AI.* `;
+            msg += `❒ *READ THE GROUP DESCRIPTION TO AVOID GETTING REMOVED BY Spy-X.* `;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
@@ -1565,19 +1565,19 @@ zk.ev.on('group-participants.update', async (group) => {
                 console.log(" pkdriller is connecting...");
             }
             else if (connection === 'open') {
-                console.log("✅ pkdriller Connected to WhatsApp! ☺️");
+                console.log("✅ SNOWBIRD Connected to WhatsApp! ☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log("pkdriller is Online 🕸\n\n");
+                console.log("SNOWBIRD is Online 🕸\n\n");
                 //chargement des commandes 
-                console.log("Loading pkdriller Commands ...\n");
-                fs.readdirSync(__dirname + "/pkdriller").forEach((fichier) => {
+                console.log("Loading Spy-X Commands ...\n");
+                fs.readdirSync(__dirname + "/Spy-X").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
-                            require(__dirname + "/pkdriller/" + fichier);
+                            require(__dirname + "/snowbird/" + fichier);
                             console.log(fichier + " Installed Successfully✔️");
                         }
                         catch (e) {
@@ -1606,15 +1606,15 @@ zk.ev.on('group-participants.update', async (group) => {
 
                 let cmsg =` ⁠⁠⁠⁠
 ╭─────────────━┈⊷ 
-│🌍 *NEXUS-AI ɪs ᴄᴏɴɴᴇᴄᴛᴇᴅ*🌍
+│🌍 *Spy-X ɪs ᴄᴏɴɴᴇᴄᴛᴇᴅ*🌍
 ╰─────────────━┈⊷
 │💫 ᴘʀᴇғɪx: *[ ${prefixe} ]*
 │⭕ ᴍᴏᴅᴇ: *${md}*
-│💢 *BOT NAME* NEXUS-AI
+│💢 *BOT NAME* Spy-X
 ╰─────────────━┈⊷
 
 *Follow our Channel For Updates*
-> https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x
+> https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C
                 
                 
                  `;
