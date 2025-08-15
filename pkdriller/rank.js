@@ -135,7 +135,7 @@ zokou( {
     
     
          let msg = `
-┏━━━┛ NEXUS-AI┗━━━┓
+┏━━━┛ Sky-X ┗━━━┓
          
     *Name :* @${auteurMsgRepondu.split("@")[0]}
     
@@ -211,7 +211,7 @@ zokou( {
     
     
          let msg = `
-┏━━━┛ NEXUS-AI rank┗━━━┓
+┏━━━┛ Sky-X  rank┗━━━┓
      
   *Name :* ${nomAuteurMessage}
 

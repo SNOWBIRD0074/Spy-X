@@ -37,7 +37,7 @@ zokou({ nomCom: "tagall", categorie: 'Group', reaction: "📣" }, async (dest, z
   tag +=`
   
 ╭─────────────────━┈⊷ 
-│⛔ *NEXUS AI TAGS*
+│⛔ *Sky-X TAGS*
 ╰─────────────────━┈⊷ \n
 │⭕ *Group* : ${nomGroupe} 
 │⭕ *Hey😀* : *${nomAuteurMessage}* 

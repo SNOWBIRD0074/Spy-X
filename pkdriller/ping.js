@@ -39,8 +39,8 @@ zokou({ nomCom: "ping", categorie: "General" }, async (dest, zk, commandeOptions
         forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-              newsletterJid: '120363288304618280@newsletter',
-              newsletterName: 'NEXUS-AI',
+              newsletterJid: '120363399707841760@newsletter',
+              newsletterName: 'Sky-X',
               serverMessageId: 143},
         externalAdReply: {
           

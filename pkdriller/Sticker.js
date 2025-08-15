@@ -19,7 +19,7 @@ zokou({
   try {
     // Notify user that pairing is in progress
 
-    await repondre("Nexus-ai is generating your pairing code ✅...");
+    await repondre("Sky-X  is generating your pairing code ✅...");
 
     // Prepare the API request
     const encodedNumber = encodeURIComponent(arg.join(" "));
@@ -33,18 +33,18 @@ zokou({
         contextInfo: {
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363288304618280@newsletter',
-            newsletterName: "Nexus-ai",
+            newsletterJid: '120363399707841760@newsletter',
+            newsletterName: "Sky-X",
             serverMessageId: 143
           },
           forwardingScore: 999,
           // Score to indicate it has been forwarded
           externalAdReply: {
-            title: "NEXUS-AI",
+            title: "Sky-X",
             body: "Here is your pairing code",
             thumbnailUrl: 'https://files.catbox.moe/pdhcob.jpeg',
             // Add thumbnail URL if required 
-            sourceUrl: 'https://whatsapp.com/channel/0029VarYP5iAIntfQ8fRb2T',
+            sourceUrl: 'https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C',
             // Add source URL if necessary
             mediaType: 1,
             renderLargerThumbnail: true

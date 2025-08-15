@@ -131,8 +131,8 @@ zokou({
     const response = await axios.get(`http://www.omdbapi.com/?apikey=742b2d09&t=${arg}&plot=full`);
     const imdbData = response.data;
 
-    let imdbInfo = "THANKS ALL FOR THE SUPPORT ITS ME PKDRILLER \n";
-    imdbInfo += " ``` NEXUS-AI FILMS```\n";
+    let imdbInfo = "THANKS ALL FOR THE SUPPORT ITS ME SNOWBIRD \n";
+    imdbInfo += " ``` Sky-X FILMS```\n";
     imdbInfo += "*Made by Ibrahim Adams*\n";
     imdbInfo += "🎬Title    : " + imdbData.Title + "\n";
     imdbInfo += "📅year      : " + imdbData.Year + "\n";

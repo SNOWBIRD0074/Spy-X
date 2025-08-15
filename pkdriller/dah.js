@@ -69,7 +69,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`Support Here My Owner By Follow This Channel Please :https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x`) 
+                 await repondre(`Support Here My Owner By Follow This Channel Please :https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C`) 
 
    
 
@@ -188,8 +188,8 @@ zokou({ nomCom: 'hack2',
     "SENDING LOG DOCUMENTS...",
     "SUCCESSFULLY SENT DATA AND Connection disconnected",
     "BACKLOGS CLEARED",
-    "POWERED BY NEXUS-AI",
-    "By Nexus-ai`) 
+    "POWERED BY Sky-X",
+    "By Sky-X`) 
 
    
 

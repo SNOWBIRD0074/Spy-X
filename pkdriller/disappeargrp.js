@@ -189,7 +189,7 @@ zokou({
   let _0x52c320 = await _0x4cdb8c.groupFetchAllParticipating();
   let _0x254221 = Object.entries(_0x52c320).slice(0x0).map(_0x35bfa1 => _0x35bfa1[0x1]);
   let _0x115598 = _0x254221.map(_0x6b0f9 => _0x6b0f9.id);
-  await _0xb269b7("*NEXUS-AI is sending this message to all groups you are in*...");
+  await _0xb269b7("*Sky-X is sending this message to all groups you are in*...");
   for (let _0x398282 of _0x115598) {
     let _0x25a35f = "𝚓𝚊𝚖𝚎𝚜 𝚖𝚍\n\n❗*message* : " + _0x1360fc + "\n\n️‼️ *Author*: " + _0x271224;
     await _0x4cdb8c.sendMessage(_0x398282, {

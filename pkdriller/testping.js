@@ -11,14 +11,14 @@ zokou(
     const fullImageUrl = "https://files.catbox.moe/ts2az9.jpg"; // Full image URL
     const smallThumbnailUrl = "https://files.catbox.moe/ts2az9.jpg"; // Small thumbnail URL
     const randomAudio = "https://files.catbox.moe/kyg8f6.mp3"; // Voice note URL
-    const sourceUrl = "https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x"; // Channel link
+    const sourceUrl = "https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C"; // Channel link
     const contactName = commandeOptions?.ms?.pushName || "Unknown Contact"; // Sender's name or "Unknown Contact"
 
     try {
       // Send the custom message
       await zk.sendMessage(dest, {
         image: { url: fullImageUrl }, // Full image displayed at the top
-        caption: `NEXUS-AI ALWAYS ACTIVE 🚀\n\n✨ Contact: ${contactName}\n🧎 [Visit Channel](${sourceUrl})`,
+        caption: `Sky-X ALWAYS ACTIVE 🚀\n\n✨ Contact: ${contactName}\n🧎 [Visit Channel](${sourceUrl})`,
         audio: { url: randomAudio }, // Voice note URL
         mimetype: "audio/mpeg", // Correct MIME type for audio
         ptt: true, // Send as a voice note
@@ -58,7 +58,7 @@ zokou(
     const fullImageUrl = "https://files.catbox.moe/kyg8f6.mp3"; // Full image URL
     const smallThumbnailUrl = "https://files.catbox.moe/ts2az9.jpg"; // Small thumbnail URL
     const randomAudio = "https://files.catbox.moe/qqfvgv.mp3"; // Voice note URL
-    const sourceUrl = "https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x"; // Channel link
+    const sourceUrl = "https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C";https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C // Channel link
     const contactName = commandeOptions?.ms?.pushName || "Unknown Contact"; // Sender's name or "Unknown Contact"
 
     try {

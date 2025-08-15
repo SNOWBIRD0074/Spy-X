@@ -15,7 +15,7 @@ async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, 
     try {
         // Liste des options NSFW
         const nsfwList = `
-*•NEXUS NSFW🤤🔞•*
+*•Sky-X NSFW🤤🔞•*
 
 1️⃣ *EJACULATION*
 2️⃣ *PENIS*

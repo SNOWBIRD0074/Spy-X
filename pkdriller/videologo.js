@@ -21,15 +21,15 @@ zokou({ nomCom: "videologo", categorie: "modern-logo", reaction: "✋" }, async 
 3 ➠ intro video 📷
 4 ➠ tiger 🐯 video logo
 
-*its nexus beiby enjoy using me💙💜*`;
+*its Sky-X  enjoy using me💙💜*`;
 
     const contextInfo = {
       mentionedJid: [ms.sender], // Mention the sender
       externalAdReply: {
-        title: "NEXUS-AI",
-        body: "Regards, Pkdriller",
+        title: "Sky-X",
+        body: "SNOWBIRD,
         thumbnailUrl: "https://files.catbox.moe/d0pwu0.jpg",
-        sourceUrl: "https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x",
+        sourceUrl: "https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C",
         mediaType: 1,
         renderLargerThumbnail: true,
       },
@@ -78,7 +78,7 @@ zokou({ nomCom: "videologo", categorie: "modern-logo", reaction: "✋" }, async 
           await zk.sendMessage(dest, {
             video: { url: logoUrl },
             mimetype: "video/mp4",
-            caption: `*Downloaded by NEXUS AI*`,
+            caption: `*Downloaded by Sky-X *`,
           }, { quoted: ms });
         }
       }

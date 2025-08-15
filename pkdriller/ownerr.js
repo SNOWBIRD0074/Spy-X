@@ -55,12 +55,12 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "🫶" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "Pkdriller", numero: "254785392165" },
-      { nom: "pkdriller", numero: "254785392165" },
+      { nom: "Pkdriller", numero: "263780145644" },
+      { nom: "pkdriller", numero: "263780145644" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 welcome to NEXUS-AI! here is the developer :\n\n";
+    let message = "👋 welcome to Sky-X! here is the developer :\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -95,7 +95,7 @@ zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpti
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
-  await zk.sendMessage(auteurMessage,{text :`https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x`},{quoted :ms})
+  await zk.sendMessage(auteurMessage,{text :`https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C`},{quoted :ms})
 
 })
 
@@ -103,8 +103,8 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "🦁" }, async (de
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "Pkdriller", numero: "254702221671" },
-      { nom: "Pkdriller", numero: "254785392165" },
+      { nom: "Pkdriller", numero: "263710407389" },
+      { nom: "SNOWBIRD", numero: "263780145644" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 

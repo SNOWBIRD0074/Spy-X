@@ -21,7 +21,7 @@ zokou({
       text: news,
       contextInfo: {
         externalAdReply: {
-          title: "NEXUS-TECH NEWS",
+          title: "Sky-X NEWS",
           body: "keep learning", 
           thumbnailUrl: thumbnail, 
           sourceUrl: conf.GURL, 
@@ -81,7 +81,7 @@ zokou({
     
     const data = response.data;
     const messageText = `
-ᕙ⁠ *BONIPHACE MD HOLY BIBLE* ᕗ
+ᕙ⁠ *Sky-X HOLY BIBLE* ᕗ
 
 ✿⁠ *_WE'RE READING:_* ${data.reference}
 
@@ -98,7 +98,7 @@ zokou({
       text: messageText,
       contextInfo: {
         externalAdReply: {
-          title: "NEXUS-AI HOLY BIBLE",
+          title: "Sky-X HOLY BIBLE",
           body: `We're reading: ${data.reference}`,
           mediaType: 1,
           thumbnailUrl: "https://files.catbox.moe/ls0m1e.jpeg", 
@@ -153,7 +153,7 @@ zokou({
         text: definitionMessage,
         contextInfo: {
           externalAdReply: {
-            title: "NEXUS-AI",
+            title: "Sky-X",
             body: `Definition of ${term}`,
             mediaType: 1,
             thumbnailUrl: "https://files.catbox.moe/ls0m1e.jpeg", 
@@ -204,7 +204,7 @@ zokou({
         text: pairingCode,
         contextInfo: {
           externalAdReply: {
-            title: "NEXUS-AI CODE",
+            title: "Sky-XCODE",
             body: "Here is your pairing code:",
             mediaType: 1,
             thumbnailUrl: conf.URL, 
@@ -265,7 +265,7 @@ Regards ${conf.BOT} `;
       text: formattedMessage,
       contextInfo: {
         externalAdReply: {
-          title: "NEXUS-AI ELEMENT INFORMATION",
+          title: "Sky-X ELEMENT INFORMATION",
           body: "Here is the information you requested:",
           mediaType: 1,
           thumbnailUrl: thumb,
@@ -324,7 +324,7 @@ zokou({
       text: githubMessage,
       contextInfo: {
         externalAdReply: {
-          title: "NEXUS-AI GITHUB USER INFO",
+          title: "Sky-X GITHUB USER INFO",
           body: `Information about ${data.login}`,
           mediaType: 1,
           thumbnailUrl: thumb,
@@ -467,7 +467,7 @@ zokou({
 
 🔗 *URL*: ${con.content_urls.mobile.page}
 
-> Powered by NEXUS-AI 
+> Powered by Sky-X 
     `;
     repondre(texa);
   } catch (err) {

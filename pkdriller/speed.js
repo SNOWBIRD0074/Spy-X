@@ -33,7 +33,7 @@ zokou(
     const end = new Date().getTime();
     const ping = end - start;
     await zk.sendMessage(dest, {
-      text: `*NEXUS-SPEED IS 1000000090009999999833636633636363636*
+      text: `*Sky-X IS 1000000090009999999833636633636363636*
  *${ping} ms*`, edit: {
         id: msg.key.id, remoteJid: dest
       }});

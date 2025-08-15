@@ -49,11 +49,11 @@ const date = moment().format('DD/MM/YYYY');
  5. It will load for sometime then pk tech will sent A long session to your inbox on whatsapp at your own number
  6. Copy that long session and sent it to your deployer.
  
- 💻enjoy💻Nexus🧸ai
+ 💻enjoy💻Sky-X 
  `;
     
 let menuMsg = `
-> Made by : © PKDRILLER
+> Made by SNOWBIRD 
 `;
 
    var lien = mybotpic();
@@ -128,7 +128,7 @@ const date = moment().format('DD/MM/YYYY');
 > https://github.com/pkdriller/NEXUS-AI 
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
+> https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
 > https://github.com/pkdriller/pkdriller-INFO⁠
@@ -139,7 +139,7 @@ const date = moment().format('DD/MM/YYYY');
   `;
     
 let menuMsg = `
-     PK DRILLER DEV
+     SNOWBIRD
 
 ❒────────────────────❒`;
 

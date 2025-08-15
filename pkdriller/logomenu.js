@@ -70,10 +70,10 @@ zokou({ nomCom: "logo", categorie: "Search", reaction: "✋" }, async (dest, zk,
     const contextInfo = {
       mentionedJid: [ms.sender], // Mention the sender
       externalAdReply: {
-        title: "🌟 NEXUS-AI ✨",
-        body: "pkdriller✨",
+        title: "🌟 Sky-X ✨",
+        body: "SNOWBIRD✨",
         thumbnailUrl: "https://files.catbox.moe/pdhcob.jpeg",
-        sourceUrl: "https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10",
+        sourceUrl: "https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C",
         mediaType: 1,
         renderLargerThumbnail: true,
       },
@@ -258,7 +258,7 @@ zokou({ nomCom: "logo", categorie: "Search", reaction: "✋" }, async (dest, zk,
         if (logoUrl) {
           await zk.sendMessage(dest, {
             image: { url: logoUrl },
-            caption: `*POWERED BY mrpkdriller*`,
+            caption: `*POWERED BY SNOWBIRD*`,
           }, { quoted: ms });
         }
       }

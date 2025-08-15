@@ -17,16 +17,16 @@ zokou({
         contextInfo: {
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363317462952356@newsletter',
-                newsletterName: "nexus σғғɪᴄᴇ",
+                newsletterJid: '120363399707841760@newsletter',
+                newsletterName: "Sky-X σғғɪᴄᴇ",
                 serverMessageId: 143,
             },
             forwardingScore: 999, // Score to indicate it has been forwarded
             externalAdReply: {
-                title: "Nexus-ai",
+                title: "Sky-X ",
                 body: "Next Generation",
                 thumbnailUrl: 'https://files.catbox.moe/pdhcob.jpeg', // Add thumbnail URL if required 
-                sourceUrl: 'https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x', // Add source URL if necessary
+                sourceUrl: 'https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C', // Add source URL if necessary
                 mediaType: 1,
                 renderLargerThumbnail: true
             }
