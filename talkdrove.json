@@ -1,10 +1,10 @@
 {
-  "bot-name": "Spy-X MULT DEVICE",
+  "bot-name": "NEXUS-AI MULT DEVICE",
   "description": "Lucky Whatsapp device bot made by FrediEzra to help Whatsapp users to enjoy while helping...",
   "logo": "https://files.catbox.moe/6rlmjb.jpg",
-  "keywords": ["SNOWBIRD", "snowbird", "Spy-X"],
+  "keywords": ["Pkdriller", "Pkdriller01", "Nexus-ai"],
   "documentation-link": "https://nexus-ai-pairing-site.onrender.com/",
-  "owner-verification":"praiseluke47@gmail.com",
+  "owner-verification":"pkdriller520@gmail.com",
   "env": {
     "PREFIX":
     {
@@ -71,7 +71,7 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "Spy-X",
+      "value": "NEXUS-AI",
       "required": false 
     },
     "PUBLIC_MODE": {
@@ -96,7 +96,7 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "SNOWBIRD",
+      "value": "Pkdriller01",
       "required": false
     },
     "URL": {
@@ -110,8 +110,8 @@
       "required": false  
     },
     "NUMERO_OWNER": {
-      "description": "Your phone number (exclude '+' and area code, e.g., '263780145644')",
-      "value": "263710407389",
+      "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
+      "value": "254794146821",
       "required": false
     },
     "WARN_COUNT": {

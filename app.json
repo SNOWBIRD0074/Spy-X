@@ -1,6 +1,6 @@
 {
-  "name":"NEXUS-AI",
-  "description":"Best whatsapp bot💥 developed by   Pkdriller 🇰🇪 ",
+  "name":"☆𝑺𝒑𝒚-𝑿",
+  "description":"Best whatsapp bot💥 developed by   SNOWBIRD🇿🇼 ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/pdhcob.jpeg",
   "repository":"https://github.com/ekitale/maths-project",
@@ -58,7 +58,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"NEXUS-AI",
+      "value":"sɴᴏᴡʙɪʀᴅ",
       "required":false
 
     } ,
