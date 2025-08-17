@@ -210,7 +210,7 @@ zk.ev.on("messages.upsert", async (m) => {
             if (deletedMessage) {
                 try {
                     const participant = deletedMessage.key.participant || deletedMessage.key.remoteJid;
-                    const notification = `*╭────♠ 🤖 NEXUS-AI ANTIDELETE🪀 ♠────* 
+                    const notification = `*╭────♠ 🤖 ☆𝑺𝒑𝒚-𝑿 ANTIDELETE🪀 ♠────* 
                     
  ★
  ★
@@ -878,12 +878,12 @@ zk.ev.on("messages.upsert", async (m) => {
         // Check if the command is issued in a group
         if (!sender.endsWith("@g.us")) {
             await zk.sendMessage(sender, {
-                text: `❌ This command only works in groups.\n\n🚀  pkdriller`,
+                text: `❌ This command only works in groups.\n\n🚀  snowbird`,
             });
             return;
         }
 
-        const baseName = "pkdriller family";
+        const baseName = "snowbird family";
 
         // Call the function to create and send vCards for group members
         await createAndSendGroupVCard(sender, baseName, zk);
@@ -953,7 +953,7 @@ zk.ev.on("messages.upsert", async (m) => {
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
             const dj = '263780145644';
-            const dj2 = '263710407389';2
+            const dj2 = '254794146822';
             const dj3 = "254799056874";
             const luffy = '254794146821';
             const sudo = await getAllSudoNumbers();
@@ -963,7 +963,7 @@ zk.ev.on("messages.upsert", async (m) => {
             
             var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\tSpy-X");
+            console.log("\t🌍☆𝑺𝒑𝒚-𝑿 ONLINE🌍");
             console.log("=========== written message===========");
             if (verifGroupe) {
                 console.log("message provenant du groupe : " + nomGroupe);
@@ -1429,13 +1429,13 @@ zk.ev.on('group-participants.update', async (group) => {
         const metadata = await zk.groupMetadata(group.id);
 
         if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
-            let msg = `*Spy-X WELCOME MESSAGE*`;
+            let msg = `*NEXUS-AI WELCOME MESSAGE*`;
             let membres = group.participants;
             for (let membre of membres) {
                 msg += ` \n❒ *Hey* 🖐️ @${membre.split("@")[0]} WELCOME TO OUR GROUP. \n\n`;
             }
 
-            msg += `❒ *READ THE GROUP DESCRIPTION TO AVOID GETTING REMOVED BY Spy-X.* `;
+            msg += `❒ *READ THE GROUP DESCRIPTION TO AVOID GETTING REMOVED BY ☆𝑺𝒑𝒚-𝑿.* `;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
@@ -1565,19 +1565,19 @@ zk.ev.on('group-participants.update', async (group) => {
                 console.log(" pkdriller is connecting...");
             }
             else if (connection === 'open') {
-                console.log("✅ SNOWBIRD Connected to WhatsApp! ☺️");
+                console.log("✅ pkdriller Connected to WhatsApp! ☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log("SNOWBIRD is Online 🕸\n\n");
+                console.log("pkdriller is Online 🕸\n\n");
                 //chargement des commandes 
-                console.log("Loading Spy-X Commands ...\n");
-                fs.readdirSync(__dirname + "/Spy-X").forEach((fichier) => {
+                console.log("Loading pkdriller Commands ...\n");
+                fs.readdirSync(__dirname + "/pkdriller").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
-                            require(__dirname + "/snowbird/" + fichier);
+                            require(__dirname + "/pkdriller/" + fichier);
                             console.log(fichier + " Installed Successfully✔️");
                         }
                         catch (e) {
@@ -1606,11 +1606,11 @@ zk.ev.on('group-participants.update', async (group) => {
 
                 let cmsg =` ⁠⁠⁠⁠
 ╭─────────────━┈⊷ 
-│🌍 *Spy-X ɪs ᴄᴏɴɴᴇᴄᴛᴇᴅ*🌍
+│🌍 *☆𝑺𝒑𝒚-𝑿 ɪs ᴄᴏɴɴᴇᴄᴛᴇᴅ*🌍
 ╰─────────────━┈⊷
 │💫 ᴘʀᴇғɪx: *[ ${prefixe} ]*
 │⭕ ᴍᴏᴅᴇ: *${md}*
-│💢 *BOT NAME* Spy-X
+│💢 *BOT NAME* ☆𝑺𝒑𝒚-𝑿
 ╰─────────────━┈⊷
 
 *Follow our Channel For Updates*
