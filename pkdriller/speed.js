@@ -33,7 +33,7 @@ zokou(
     const end = new Date().getTime();
     const ping = end - start;
     await zk.sendMessage(dest, {
-      text: `*Spy-X IS 1000000090009999999833636633636363636*
+      text: `*☆𝑺𝒑𝒚-𝑿-SPEED IS 1000000090009999999833636633636363636*
  *${ping} ms*`, edit: {
         id: msg.key.id, remoteJid: dest
       }});
@@ -56,7 +56,7 @@ zokou(
       ms, arg, repondre
     } = commandOptions;
     // data
-    const tumbUrl = 'https://files.catbox.moe/ts2az9.jpg';
+    const tumbUrl = 'https://files.catbox.moe/nm2a93.jpg';
     const used = process.memoryUsage();
     const cpus = os.cpus().map(cpu => {
       cpu.total = Object.keys(cpu.times).reduce((last, type) => last + cpu.times[type], 0);
@@ -131,7 +131,7 @@ zokou(
     const {
       ms
     } = commandOptions;
-    const tumbUrl = 'https://files.catbox.moe/ts2az9.jpg';
+    const tumbUrl = 'https://files.catbox.moe/nm2a93.jpg';
     const runtimetext = `💙 *Bot Have Been Running For ${runtime(process.uptime())}* ❎`;
     zk.sendMessage(dest, {
       text: runtimetext,

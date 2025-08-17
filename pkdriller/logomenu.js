@@ -64,14 +64,13 @@ zokou({ nomCom: "logo", categorie: "Search", reaction: "✋" }, async (dest, zk,
 48⊷ Galaxy ❤️‍🔥
 49⊷ Anonymous hacker (avatar cyan neon)
 50⊷ Birthday cake
-
 *Enjoy 🫅*`;
 
     const contextInfo = {
       mentionedJid: [ms.sender], // Mention the sender
       externalAdReply: {
-        title: "🌟 Sky-X ✨",
-        body: "SNOWBIRD✨",
+        title: "🌟 𝑺𝒑𝒚-𝑿 ✨",
+        body: "sɴᴏᴡʙɪʀᴅ✨",
         thumbnailUrl: "https://files.catbox.moe/pdhcob.jpeg",
         sourceUrl: "https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C",
         mediaType: 1,
@@ -258,7 +257,7 @@ zokou({ nomCom: "logo", categorie: "Search", reaction: "✋" }, async (dest, zk,
         if (logoUrl) {
           await zk.sendMessage(dest, {
             image: { url: logoUrl },
-            caption: `*POWERED BY SNOWBIRD*`,
+            caption: `*ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɴᴏᴡʙɪʀᴅ*`,
           }, { quoted: ms });
         }
       }

@@ -31,16 +31,16 @@ zokou({
   });
   moment.tz.setDefault("Etc/GMT");
   const _0x30b447 = moment().format("DD/MM/YYYY");
-  let _0x5810f6 = "\n╭━━✧★☞  Spy-X✧━━❖\n┊✺┌────••••────⊷\n┃★│◎ Owner : " + s.OWNER_NAME + "\n┃★│◎ Prefix : [ " + s.PREFIXE + " ]\n┃★│◎ Mode : " + _0x2fb207 + "\n┃★│◎ Ram : 8/132 GB\n┃★│◎ Date : " + _0x30b447 + "\n┃★│◎ Platform : " + os.platform() + "\n┃★│◎ Creator : SNOWBIRD\n┃★│◎ Commands : " + _0x3f91bc.length + "\n┃★│◎ Theme : Spy-X\n┊   └────••••────⊷\n╰━━━••✧Spy-X✧••━━━◆\n";
-  let _0x499730 = "Spy-X 𝐌𝐄𝐍𝐔";
+  let _0x5810f6 = "\n━━☆𝑺𝒑𝒚-𝑿✧━━\n\n> ★  Oᴡɴᴇʀ : " + s.OWNER_NAME + "\n> ★ Pʀᴇғɪx : [ " + s.PREFIXE + " ]\n> ★ Mᴏᴅᴇ : " + _0x2fb207 + "\n> ★ Rᴀᴍ : 8/132 GB\n> ★  Dᴀᴛᴇ : " + _0x30b447 + "\n> ★ Pʟᴀᴛғᴏʀᴍ : " + os.platform() + "\n> ★ ᴄʀᴇᴀᴛᴏʀ : sɴᴏᴡʙɪʀᴅ\n> ★ Pʟᴜɢɢɪɴs : " + _0x3f91bc.length + "\n> ★ᴛʜᴇᴍᴇ : ☆𝑺𝒑𝒚-𝑿\n\n━━━☆𝑺𝒑𝒚-𝑿 𝑴𝑬𝑵𝑼━━━\n";
+  let _0x499730 = "";
   for (const _0x297db1 in _0x4b68cd) {
-    _0x499730 += "\n╭━━━❂ *" + _0x297db1 + "* ❂━━─••\n║╭━━══••══━━••⊷ ";
+    _0x499730 += "\n " + _0x297db1 + " \n ";
     for (const _0x38505c of _0x4b68cd[_0x297db1]) {
-      _0x499730 += "          \n║┊❍ " + s.PREFIXE + "  *" + _0x38505c + '*';
+      _0x499730 += "          \n> ★ " + s.PREFIXE + "  " + _0x38505c + '';
     }
-    _0x499730 += "\n║╰━━══••══━━••⊷\n╰════────════◆◆◆";
+    _0x499730 += "\n\n";
   }
-  _0x499730 += "\n> @Spy-X\n";
+  _0x499730 += "\n> ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɴᴏᴡʙɪʀᴅ\n";
   try {
     await _0x35dd19.sendMessage(_0x466846, {
       'text': _0x5810f6 + _0x499730,
@@ -49,13 +49,13 @@ zokou({
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
           'newsletterJid': "120363399707841760@newsletter",
-          'newsletterName': "Spy-X",
+          'newsletterName': "☆𝑺𝒑𝒚-𝑿",
           'serverMessageId': 0x8f
         },
         'externalAdReply': {
-          'title': "Spy-X",
+          'title': "☆𝑺𝒑𝒚-𝑿",
           'body': "Tap to join the official channel",
-          'thumbnailUrl': "https://files.catbox.moe/q99uu1.jpg",
+          'thumbnailUrl': "https://files.catbox.moe/xqcr8w.jpg",
           'mediaType': 0x1,
           'renderLargerThumbnail': true
         }

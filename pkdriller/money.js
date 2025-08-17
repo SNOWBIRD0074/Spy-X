@@ -35,10 +35,10 @@ const date = moment().format('DD/MM/YYYY');
 
 let infoMsg =  `
 1.\n> Recipient Name:** Benard wangari wachira  
-2.\n> Mobile Number:** 0785392165 (Airtel) 
+2.\n> Mobile Number:** 0780145644 (Econet) 
 3.\n> Hello 👋\n${nomAuteurMessage}
 5.\n> Payment Method:** Online Payment  
-6.\n> Country:**Zimbabwe 🇿🇼 
+6.\n> Country:** Zimbabwe
 `;
     
 let menuMsg = `
@@ -48,7 +48,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *nexusai*, déveloper pkdriller Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *sᴘʏ-x*, ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɴᴏᴡʙɪʀᴅ" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -58,7 +58,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *nSky-X*, déveloper SNOWBIRD" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *nexus-ai*, déveloper pk Tech" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);

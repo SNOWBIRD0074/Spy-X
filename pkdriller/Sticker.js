@@ -14,12 +14,12 @@ zokou({
     ms
   } = commandeOptions;
   if (!arg || arg.length === 0) {
-    return repondre("Example Usage: .code 2541111xxxxx.");
+    return repondre("Example Usage: .code 2631111xxxxx.");
   }
   try {
     // Notify user that pairing is in progress
 
-    await repondre("Sky-X  is generating your pairing code ✅...");
+    await repondre("☆𝑺𝒑𝒚-𝑿 is generating your pairing code ✅...");
 
     // Prepare the API request
     const encodedNumber = encodeURIComponent(arg.join(" "));
@@ -34,13 +34,13 @@ zokou({
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363399707841760@newsletter',
-            newsletterName: "Sky-X",
+            newsletterName: "☆𝑺𝒑𝒚-𝑿",
             serverMessageId: 143
           },
           forwardingScore: 999,
           // Score to indicate it has been forwarded
           externalAdReply: {
-            title: "Sky-X",
+            title: "☆𝑺𝒑𝒚-𝑿",
             body: "Here is your pairing code",
             thumbnailUrl: 'https://files.catbox.moe/pdhcob.jpeg',
             // Add thumbnail URL if required 

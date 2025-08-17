@@ -68,7 +68,7 @@ const {
   }
   let _0xc8dec2 = _0x1fd727.participants;
   if (!_0x3e9fea[0x0]) {
-    return _0x132613("Provide number to be added. Example:\nadd 254XXXXX747");
+    return _0x132613("Provide number to be added. Example:\nadd 263XXXXX747");
   }
   let _0x4cb0cb = _0x3e9fea.join(" ");
   const _0x5abc4d = _0xc8dec2.map(_0xd268e8 => _0xd268e8.id);
@@ -152,7 +152,7 @@ const {
     const _0x19afe6 = _0x5488b4.attrs.expiration;
     const _0x794f96 = "I cannot add @" + _0x4766bc.split('@')[0x0] + " due to privacy settings, Let me send an invite link instead.";
     await _0x132613(_0x794f96);
-    let _0x599fb8 = "You have been invited to join the group " + _0x1fd727.subject + ":\n\nhttps://chat.whatsapp.com/" + _0x36611d + "\n\n*POWERED BY NEXUS-AI*";
+    let _0x599fb8 = "You have been invited to join the group " + _0x1fd727.subject + ":\n\nhttps://chat.whatsapp.com/" + _0x36611d + "\n\n*ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɴᴏᴡʙɪʀᴅ*";
     await _0x4375b2.sendMessage(_0x4766bc, {
       'image': {
         'url': _0x3f6faa
@@ -189,7 +189,7 @@ zokou({
   let _0x52c320 = await _0x4cdb8c.groupFetchAllParticipating();
   let _0x254221 = Object.entries(_0x52c320).slice(0x0).map(_0x35bfa1 => _0x35bfa1[0x1]);
   let _0x115598 = _0x254221.map(_0x6b0f9 => _0x6b0f9.id);
-  await _0xb269b7("*Sky-X is sending this message to all groups you are in*...");
+  await _0xb269b7("*NEXUS-AI is sending this message to all groups you are in*...");
   for (let _0x398282 of _0x115598) {
     let _0x25a35f = "𝚓𝚊𝚖𝚎𝚜 𝚖𝚍\n\n❗*message* : " + _0x1360fc + "\n\n️‼️ *Author*: " + _0x271224;
     await _0x4cdb8c.sendMessage(_0x398282, {
@@ -489,7 +489,7 @@ zokou({
       'document': _0x511dab.readFileSync("./contacts.vcf"),
       'mimetype': "text/vcard",
       'fileName': _0x38463f.subject + '.Vcf',
-      'caption': "VCF for " + _0x38463f.subject + "\nTotal Contacts: " + _0x267c2d.length + "\n*𝚃𝙷𝙰𝙽𝙺𝚂 𝙵𝙾𝚁 𝚄𝚂𝙸𝙽𝙶 Nexus-ai *"
+      'caption': "VCF for " + _0x38463f.subject + "\nTotal Contacts: " + _0x267c2d.length + "\n*𝚃𝙷𝙰𝙽𝙺𝚂 𝙵𝙾𝚁 𝚄𝚂𝙸𝙽𝙶 sᴘʏ-X *"
     }, {
       'ephemeralExpiration': 0x15180,
       'quoted': _0x48a83b
@@ -659,7 +659,7 @@ zokou({
               _0x71952("The only actions available are `warn`, `remove`, and `delete`.");
             }
           } else {
-            _0x71952("Type `antilink-all on` to activate the antilink-all feature\nor `antilink-all off` to deactivate the antilink-all feature\nor `antilink-all action/remove` to directly remove the link without notice\nor `antilink-all action/warn` to give warnings\nor `antilink-all action/delete` to remove the link without any sanctions\n\nPlease note that by default, the antilink-all feature is set to delete.\n\n*𝚃𝙷𝙰𝙽𝙺𝚂 𝙵𝙾𝚁 𝚄𝚂𝙸𝙽𝙶 𝙹𝙰𝙼𝙴𝚂 𝙼𝙳*");
+            _0x71952("Type `antilink-all on` to activate the antilink-all feature\nor `antilink-all off` to deactivate the antilink-all feature\nor `antilink-all action/remove` to directly remove the link without notice\nor `antilink-all action/warn` to give warnings\nor `antilink-all action/delete` to remove the link without any sanctions\n\nPlease note that by default, the antilink-all feature is set to delete.\n\n*𝚃𝙷𝙰𝙽𝙺𝚂 𝙵𝙾𝚁 𝚄𝚂𝙸𝙽𝙶 sᴘʏ-x*");
           }
         }
       }

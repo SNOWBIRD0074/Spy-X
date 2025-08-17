@@ -12,7 +12,7 @@ const moment = require("moment-timezone");
 const conf = require(__dirname + "/../set");
 
 const AUDIO_URL = "https://files.catbox.moe/mfhv0a.mp3"; // New audio URL
-const THUMBNAIL_URL = "https://files.catbox.moe/ts2az9.jpg"; // New image URL
+const THUMBNAIL_URL = "https://files.catbox.moe/xqcr8w.jpg"; // New image URL
 
 moment.tz.setDefault(`${conf.TZ}`);
 
@@ -40,11 +40,11 @@ zokou({ nomCom: "ping", categorie: "General" }, async (dest, zk, commandeOptions
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
               newsletterJid: '120363399707841760@newsletter',
-              newsletterName: 'Sky-X',
+              newsletterName: '☆𝑺𝒑𝒚-𝑿',
               serverMessageId: 143},
         externalAdReply: {
           
-          title: "Follow for updates 💙",
+          title: "ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɴᴏᴡʙɪʀᴅ ",
       body: "Enjoy...",
       thumbnailUrl: conf.URL,
           sourceUrl: conf.GURL,
@@ -55,7 +55,7 @@ zokou({ nomCom: "ping", categorie: "General" }, async (dest, zk, commandeOptions
     }, { quoted: ms });
 
     await zk.sendMessage(dest, {
-        text: "```my repo is here https://github.com/Pkdriller01/NEXUS-AI```"
+        text: "```my repo is here https://github.com/SNOWBIRD0074/Spy-X```"
     } ,{ quoted: ms });// Voice note form
     }catch (e) {
         console.log("❌ Ping Command Error: " + e);

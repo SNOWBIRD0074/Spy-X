@@ -36,14 +36,14 @@ zokou({
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
           'newsletterJid': "120363399707841760@newsletter",
-          'newsletterName': "Spy-X",
+          'newsletterName': "☆𝑺𝒑𝒚-𝑿",
           'serverMessageId': 0x8f
         },
         'forwardingScore': 0x3e7,
         'externalAdReply': {
           'title': "Bot Runtime",
           'body': " Uptime: " + runtime(process.uptime()),
-          'thumbnailUrl': "https://files.catbox.moe/ts2az9.jpg",
+          'thumbnailUrl': "https://files.catbox.moe/xqcr8w.jpg",
           'sourceUrl': "https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C",
           'mediaType': 0x1,
           'renderLargerThumbnail': true

@@ -42,7 +42,7 @@ zokou({
   } = _0x20339c;
   const _0x5754a8 = await fetch("https://nekos.life/api/v2/fact");
   const _0x21e127 = await _0x5754a8.json();
-  _0x12e23a(" *Sky-X FACT MESSAGE* \n*💠* " + _0x21e127.fact + "\n\n\n\n\n*©SNOWBIRD*\n\n╔═════◇\n║◇ *Sky-X*\n╚════════════════════>  ");
+  _0x12e23a(" *☆𝑺𝒑𝒚-𝑿 FACT MESSAGE* \n*💠* " + _0x21e127.fact + "\n\n\n\n\n*𝑺𝑵𝑶𝑾𝑩𝑰𝑹𝑫*\n\n╔═════◇\n║◇ *☆𝑺𝒑𝒚-𝑿*\n╚════════════════════>  ");
 });
 zokou({
   'nomCom': "quote",
@@ -56,7 +56,7 @@ zokou({
   } = _0x53dc51;
   const _0x2784cf = await fetch('https://favqs.com/api/qotd');
   const _0x1f25fb = await _0x2784cf.json();
-  const _0x2b238b = "\n*Spy-X  QUOTE MESSAGE*\n◇ _" + _0x1f25fb.quote.body + "_\n\n\n◇ *AUTHOR:* " + _0x1f25fb.quote.author + "\n\n\n\n\n◇ *©SNOWBIRD**\n\n\n╔═════◇\n║◇ *Spy-X*\n╚════════════════════> ";
+  const _0x2b238b = "\n*☆𝑺𝒑𝒚-𝑿 QUOTE MESSAGE*\n◇ _" + _0x1f25fb.quote.body + "_\n\n\n◇ *AUTHOR:* " + _0x1f25fb.quote.author + "\n\n\n\n\n◇ *𝑺𝑵𝑶𝑾𝑩𝑰𝑹𝑫**\n\n\n╔═════◇\n║◇ *☆𝑺𝒑𝒚-𝑿*\n╚════════════════════> ";
   _0x3bef2d(_0x2b238b);
 });
 zokou({

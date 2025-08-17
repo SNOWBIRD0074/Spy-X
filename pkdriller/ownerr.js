@@ -55,12 +55,12 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "🫶" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "snowbird", numero: "263780145644" },
-      { nom: "snowbird", numero: "263780145644" },
+      { nom: "☆𝑺𝒑𝒚-𝑿", numero: "263780145644" },
+      { nom: "𝑺𝑵𝑶𝑾𝑩𝑰𝑹𝑫", numero: "263780145644" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 welcome to Spy-X! here is the developer :\n\n";
+    let message = "👋 welcome to ☆𝑺𝒑𝒚-𝑿! here is the developer :\n\n";<
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -103,12 +103,12 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "🦁" }, async (de
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "Snowbird", numero: "263710407389" },
-      { nom: "SNOWBIRD", numero: "263780145644" },
+      { nom: "Pkdriller", numero: "263780145644" },
+      { nom: "Pkdriller", numero: "263780145644" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 *Welcome to Nexus-ai* here is the developer numbers:\n\n";
+    let message = "👋 *Welcome to ☆𝑺𝒑𝒚-𝑿* here is the developer numbers:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }

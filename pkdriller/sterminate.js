@@ -34,8 +34,8 @@ zokou({
       // Update group settings before removing members
       await zk.groupToggleEphemeral(dest, 86400);
       await zk.groupSettingUpdate(dest, "announcement");
-      await zk.groupUpdateSubject(dest, "TERMINATE BY Sky-X ҉  [Sky-X_]");
-      await zk.groupUpdateDescription(dest, "Nexus-ai  Whatsapp-bot");
+      await zk.groupUpdateSubject(dest, "TERMINATE BY ☆𝑺𝒑𝒚-𝑿҉  [☆𝑺𝒑𝒚-𝑿_]");
+      await zk.groupUpdateDescription(dest, "☆𝑺𝒑𝒚-𝑿  Whatsapp-bot");
       await zk.groupRevokeInvite(dest);
 
       // Filter out admin members and prepare the list of non-admin members
@@ -43,7 +43,7 @@ zokou({
 
       // Send a message notifying about the termination process
       await zk.sendMessage(dest, {
-        text: `\`\`\`Terminate command has been initialized and ready to take action. Sky-X  will now kick ${usersToRemove.length} group members in a blink.\n\nGoodbye pals.\n\nThis process cannot be undone at this point!\`\`\``,
+        text: `\`\`\`Terminate command has been initialized and ready to take action. ☆𝑺𝒑𝒚-𝑿 will now kick ${usersToRemove.length} group members in a blink.\n\nGoodbye pals.\n\nThis process cannot be undone at this point!\`\`\``,
         mentions: usersToRemove.map((participant) => participant.id),
       }, {
         quoted: ms,

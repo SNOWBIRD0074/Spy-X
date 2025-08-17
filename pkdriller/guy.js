@@ -78,7 +78,7 @@ else {
      }
  } else {
 
-    if(!superUser) { repondre ("Sky-X") ; return};
+    if(!superUser) { repondre ("Spy-X") ; return};
 
   
     const texte = arg.join(' ').split(';')[0];

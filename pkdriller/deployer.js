@@ -21,7 +21,7 @@ zokou({
                  `• *Name:* ${s.OWNER_NAME}\n` +
                  `• *Date:* ${date}\n` +
                  `• *Time:* ${temps}\n\n` +
-                 `> *Powered by SNOWBIRD*`;
+                 `> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɴᴏᴡʙɪʀᴅ*`;
 
   try {
     const mediaUrl = await mybotpic();
@@ -35,11 +35,11 @@ zokou({
           gifPlayback: true,
           contextInfo: {
             externalAdReply: {
-              title: `Sky-X Deployer`,
+              title: `𝑺𝒑𝒚-𝑿 Deployer`,
               body: "Premium WhatsApp Bot",
               thumbnailUrl: mediaUrl,
               mediaType: 2,
-              mediaUrl: "https://files.catbox.moe/r1j72m.jpeg",
+              mediaUrl: "https://files.catbox.moe/nm2a93.jpg",
               sourceUrl: "https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C"
             }
           }
@@ -51,12 +51,12 @@ zokou({
           caption: infoMsg,
           contextInfo: {
             externalAdReply: {
-              title: `Sky-X Deployer`,
+              title: `𝑺𝒑𝒚-𝑿 Deployer`,
               body: "Premium WhatsApp Bot",
               thumbnailUrl: mediaUrl,
               mediaType: 1,
               mediaUrl: "https://files.catbox.moe/pdhcob.jpeg",
-              sourceUrl: "Sky-X"
+              sourceUrl: "https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C"
             }
           }
         }, { quoted: ms });

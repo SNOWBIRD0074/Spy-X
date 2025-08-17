@@ -24,7 +24,7 @@ zokou({
       const metadat = await zk.groupMetadata(i);
       jackhuh += `*GROUP NAME:* ${metadat.subject}\n`;
       jackhuh += `*MEMBERS:* ${metadat.participants.length}\n`;
-      jackhuh += `*GROUP ID:* ${i}\n\n"> Sky-X 👻`;
+      jackhuh += `*GROUP ID:* ${i}\n\n"> ʙᴜᴍʙʟᴇʙᴇᴇ-xᴍᴅ ᴛᴇᴄʜ 👻`;
     }
     
     await repondre(jackhuh);

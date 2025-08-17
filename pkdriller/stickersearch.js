@@ -33,7 +33,7 @@ async (dest, zk, commandeOptions) => {
 
     const stickerMess = new Sticker(gifUrl, {
       pack: packname,
-      author: 'Sky-X',
+      author: '☆𝑺𝒑𝒚-𝑿',
       type: StickerTypes.FULL,
       categories: ["🤩", "🎉"],
       id: "12345",

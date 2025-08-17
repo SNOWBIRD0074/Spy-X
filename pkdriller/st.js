@@ -103,7 +103,7 @@ etatCommands.forEach(cmd => {
     const { repondre, arg, ms, superUser } = commandeOptions;
     
     if (!superUser) {
-      return repondre("*This command is restricted to the bot owner or Lucky owner.*");
+      return repondre("*This command is restricted to the bot owner or ☆𝑺𝒑𝒚-𝑿 owner=.*");
     }
 
     if (!arg[0]) {

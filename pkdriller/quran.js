@@ -46,7 +46,7 @@ zokou({
     
     const data = response.data.data;
     const messageText = `
-ᬑ *Spy-X  QURAN SURAH* ᬒ
+ᬑ *☆𝑺𝒑𝒚-𝑿 QURAN SURAH* ᬒ
 
 *🕌 Quran: The Holy Book*
 📜 *Surah:* 🕌❤️${data.number}: ${data.asma.ar.long} (${data.asma.en.long})❤️🕌
@@ -55,14 +55,14 @@ zokou({
 🔮 *Explanation (Urdu):* ${data.tafsir.id}
 🔮 *Explanation (English):* ${data.tafsir.en}
 ╭────────────────◆
-│ *_Powered by ${conf.OWNER_NAME}*
+│ *_ᴘᴏᴡᴇʀᴇᴅ ʙʏ ${conf.OWNER_NAME}*
 ╰─────────────────◆ `;
     
     await zk.sendMessage(dest, {
       text: messageText,
       contextInfo: {
         externalAdReply: {
-          title: "Spy-X QURAN SURAH",
+          title: "☆𝑺𝒑𝒚-𝑿 QURAN SURAH",
           body: `We're reading: ${data.asma.en.long}`,
           mediaType: 1,
           thumbnailUrl: conf.URL, 

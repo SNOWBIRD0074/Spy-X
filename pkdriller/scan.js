@@ -35,7 +35,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
- *Tap on the link to get session👑get connected by pkdriller*
+ *Tap on the link to get session👑get connected by 𝑺𝑵𝑶𝑾𝑩𝑰𝑹𝑫*
   
  https://nexus-qr-code-1-caxd.onrender.com/
  
@@ -45,15 +45,15 @@ const date = moment().format('DD/MM/YYYY');
  1. Open link
  2. Enter your whatsapp number with your country code eg : 254,255. And tap submit
  3. pkdriller will sent you a code. Copy that code. Then whatsapp will sent Notification
- 4. Tap on that notification then enter in the code that snowbird sent you.
+ 4. Tap on that notification then enter in the code that pk driller sent you.
  5. It will load for sometime then pk tech will sent A long session to your inbox on whatsapp at your own number
  6. Copy that long session and sent it to your deployer.
  
- 💻enjoy💻Spy-X 
+ 💻enjoy💻☆𝑺𝒑𝒚-𝑿
  `;
     
 let menuMsg = `
-> Made by SNOWBIRD 
+> ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɴᴏᴡʙɪʀᴅ
 `;
 
    var lien = mybotpic();
@@ -128,7 +128,7 @@ const date = moment().format('DD/MM/YYYY');
 > https://github.com/pkdriller/NEXUS-AI 
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C
+> https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
 > https://github.com/pkdriller/pkdriller-INFO⁠
@@ -139,7 +139,7 @@ const date = moment().format('DD/MM/YYYY');
   `;
     
 let menuMsg = `
-     SNOWBIRD DEV
+     𝑺𝑵𝑶𝑾𝑩𝑰𝑹𝑫
 
 ❒────────────────────❒`;
 

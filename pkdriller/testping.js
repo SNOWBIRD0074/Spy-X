@@ -8,8 +8,8 @@ zokou(
     console.log("Alive command triggered!");
 
     // URLs and configurations
-    const fullImageUrl = "https://files.catbox.moe/ts2az9.jpg"; // Full image URL
-    const smallThumbnailUrl = "https://files.catbox.moe/ts2az9.jpg"; // Small thumbnail URL
+    const fullImageUrl = "https://files.catbox.moe/nm2a93.jpg"; // Full image URL
+    const smallThumbnailUrl = "https://files.catbox.moe/nm2a93.jpg"; // Small thumbnail URL
     const randomAudio = "https://files.catbox.moe/kyg8f6.mp3"; // Voice note URL
     const sourceUrl = "https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C"; // Channel link
     const contactName = commandeOptions?.ms?.pushName || "Unknown Contact"; // Sender's name or "Unknown Contact"
@@ -18,7 +18,7 @@ zokou(
       // Send the custom message
       await zk.sendMessage(dest, {
         image: { url: fullImageUrl }, // Full image displayed at the top
-        caption: `Spy-X ALWAYS ACTIVE 🚀\n\n✨ Contact: ${contactName}\n🧎 [Visit Channel](${sourceUrl})`,
+        caption: `☆𝑺𝒑𝒚-𝑿 ALWAYS ACTIVE 🚀\n\n✨ Contact: ${contactName}\n🧎 [Visit Channel](${sourceUrl})`,
         audio: { url: randomAudio }, // Voice note URL
         mimetype: "audio/mpeg", // Correct MIME type for audio
         ptt: true, // Send as a voice note
@@ -55,10 +55,10 @@ zokou(
     console.log("Alive command triggered!");
 
     // URLs and configurations
-    const fullImageUrl = "https://files.catbox.moe/kyg8f6.mp3"; // Full image URL
+    const fullImageUrl = "https://files.catbox.moe/nm2a93.jpg"; // Full image URL
     const smallThumbnailUrl = "https://files.catbox.moe/ts2az9.jpg"; // Small thumbnail URL
     const randomAudio = "https://files.catbox.moe/qqfvgv.mp3"; // Voice note URL
-    const sourceUrl = "https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C";https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C // Channel link
+    const sourceUrl = "https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C"; // Channel link
     const contactName = commandeOptions?.ms?.pushName || "Unknown Contact"; // Sender's name or "Unknown Contact"
 
     try {
@@ -117,7 +117,7 @@ ezra(
     const defaultProfilePic = "https://files.catbox.moe/0vv5mg.jpeg";
 
     // WhatsApp channel source URL
-    const sourceUrl = "https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C";
+    const sourceUrl = "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f";
 
     try {
       // Randomly pick an audio file
@@ -197,7 +197,7 @@ ezra(
     const defaultProfilePic = "https://files.catbox.moe/0vv5mg.jpeg";
 
     // WhatsApp channel source URL
-    const sourceUrl = "https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C";
+    const sourceUrl = "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f";
 
     try {
       // Randomly pick an audio file
