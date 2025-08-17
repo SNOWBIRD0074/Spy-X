@@ -38,7 +38,7 @@ Fork this repo and give it a ⭐ to support SNOWBIRD!
 
 ### 💙 Pairing Code 💚 Session Generator💜
 
-[![Pair Code](https://img.shields.io/badge/Google-Pair%20Code-blue?style=for-the-badge&logo=Google)](https://nexus-ai-website-theta.vercel.app/)
+[![Pair Code](https://img.shields.io/badge/Google-Pair%20Code-blue?style=for-the-badge&logo=Google)](https://spy-x-pairing-site-onrender-com-s1xz.onrender.com)
 
 
 
