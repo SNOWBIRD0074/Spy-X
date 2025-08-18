@@ -103,7 +103,7 @@
 
 
 {
-  "name": "NEXUS-AI",
+  "name": "RAHMANI-XMD",
   "version": "2.0.0",
   "description": "WhatsApp Multi Device Bot",
   "main": "pkdriller.js",
@@ -121,7 +121,7 @@
     "bot-md",
     "whatsapp-multi-device"
   ],
-  "author": "NEXUS-AI",
+  "author": "RAHMANI-XMD",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -132,7 +132,7 @@
     "@xct007/tiktok-scraper": "^1.0.2",  
     "@hapi/boom": "^10.0.1",
     "@types/node": "^18.0.6",
-    "@whiskeysockets/baileys": "^6.7.18",
+    "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
     "ytdl-core": "npm:@distube/ytdl-core",
     "@google/generative-ai": "^0.1.3",
     "@xaviabot/fb-downloader": "^1.0.14",
