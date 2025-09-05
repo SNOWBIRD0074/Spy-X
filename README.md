@@ -13,7 +13,7 @@
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+ℙ𝕃𝔼𝔸𝕊𝔼+𝔽𝕆ℝ𝕂+𝕋ℍ𝔼+ℝ𝔼ℙ𝕆)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=ℙ𝕃𝔼𝔸𝕊𝔼+𝔽𝕆ℝ𝕂+𝕋ℍ𝔼+ℝ𝔼ℙ𝕆)](https://git.io/typing-svg)
 >
 
 ---
@@ -36,7 +36,7 @@ Fork this repo and give it a ⭐ to support SNOWBIRD!
 
 ---
 
-### 💙 Pair your number and get creds file💜
+### 💙Pair your number 💚get creds file💜
 
 [![Pair Code](https://img.shields.io/badge/Google-Pair%20Code-blue?style=for-the-badge&logo=Google)](https://kkkdjjdjjdjdjdjj.onrender.com)
 
