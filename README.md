@@ -36,7 +36,7 @@ Fork this repo and give it a ⭐ to support SNOWBIRD!
 
 ---
 
-### 💙 Pairing Code 💚 Creds Generator💜
+### 💙 Pair your number and get creds file💜
 
 [![Pair Code](https://img.shields.io/badge/Google-Pair%20Code-blue?style=for-the-badge&logo=Google)](https://kkkdjjdjjdjdjdjj.onrender.com)
 
