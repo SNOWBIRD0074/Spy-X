@@ -48,7 +48,7 @@ Fork this repo and give it a ⭐ to support SNOWBIRD!
 
 ---
 
-### ✔️  Deployment 
+### 🤍  Deployment 
 
 #### ✔️ Bot hosting net
 ---
@@ -69,7 +69,10 @@ Fork this repo and give it a ⭐ to support SNOWBIRD!
 
  <a href="https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C"><img title="OUR-WHATSAPP CHANNEL" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
  
+ ---
  
+ <a href="https://t.me/cyberdevsofficial"><img title="OUR-TELEGRAM CHANNEL" src="https://img.shields.io/badge/OUR-TELEGRAM CHANNEL-h?color=blue&style=for-the-badge&logo=telegram" width="280" height="38.45"/></a></p>
+
 
   </a>
 </p>
