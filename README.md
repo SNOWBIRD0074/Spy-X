@@ -1,4 +1,4 @@
-# Lady Bella2
+# ʟᴀᴅʏ ʙᴇʟʟᴀ2
 
 <!-- Glowing Header -->
 
@@ -13,11 +13,11 @@
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=ℙ𝕃𝔼𝔸𝕊𝔼+𝔽𝕆ℝ𝕂+𝕋ℍ𝔼+ℝ𝔼ℙ𝕆)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=ᴘʟᴇᴀsᴇ+ғᴏʀᴋ+ᴛʜᴇ+ʀᴇᴘᴏ+ғᴏʀ+ᴍᴏʀᴇ+ᴜᴘᴅᴀᴛᴇs)](https://git.io/typing-svg)
 >
 
 ---
-<h4 align="left">1. 𝐌𝐲 𝐚𝐜𝐜𝐨𝐮𝐧𝐭</h4>
+<h4 align="left">1. ᴍʏ ᴀᴄᴄᴏᴜɴᴛ</h4>
 <p align="left">
 <a href='https://github.com/SNOWBIRD0074' target="_blank"><img alt='Github' src='https://img.shields.io/badge/-Github%20Follow-blue?style=for-the-badge&logo=github&logoColor=white'/></a>
 </p>
@@ -27,37 +27,37 @@
 
 ---
 
-## 🚀 Deployment Options
+## 🚀 ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴏᴘᴛɪᴏɴs
 
-### ⭐ Fork & Star the Repository
-Fork this repo and give it a ⭐ to support SNOWBIRD!
+### ⭐ ғᴏʀᴋ & sᴛᴀʀ ʀᴇᴘᴏsɪᴛᴏʀʏ
+ғᴏʀᴋ & sᴛᴀʀ ⭐ ᴛᴏ sᴜᴘᴘᴏʀᴛ sɴᴏᴡʙɪʀᴅ!
 
 [![Fork Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/SNOWBIRD0074/Lady-Bella2/fork)
 
 ---
 
-### 💙Pair your number 💚get creds file💜
+### 💙ᴘᴀɪʀ ʏᴏᴜʀ #💚ɢᴇᴛ ᴄʀᴇᴅs ғɪʟᴇ💜
 
 [![Pair Code](https://img.shields.io/badge/Google-Pair%20Code-blue?style=for-the-badge&logo=Google)](https://kkkdjjdjjdjdjdjj.onrender.com)
 
 ---
 
-### ✔️ Download Lady Bella2 zip
+### ✔️ ᴅᴏᴡɴʟᴏᴀᴅ ʟᴀᴅʏʙᴇʟʟᴀ2 ᴢɪᴘ
 
 [![Deploy on Bot hosting net](https://img.shields.io/badge/-Download-blue?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/SNOWBIRD0074/Lady-Bella2/archive/refs/heads/main.zip)
 
 ---
 
-### 🤍  Deployment 
+### 🤍  ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
-#### ✔️ Bot hosting net
+#### ✔️ ʙᴏᴛ ʜᴏsᴛɪɴɢ ɴᴇᴛ
 ---
 [![Deploy on Bot hosting net](https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=heroku&logoColor=white)](https://bot-hosting.net/panel)
 
 
 ---
  
-#### ✔️ Video on how to deploy 
+#### ✔️ Vɪᴅᴇᴏ ᴏɴ ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ
 ---
 [![Deploy on Heroku](https://img.shields.io/badge/-Watch-blue?style=for-the-badge&logo=heroku&logoColor=white)](https://youtu.be/2hrm7riEZRg?si=WGfGJp8M6QZ8OsSu)
 
