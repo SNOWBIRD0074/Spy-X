@@ -44,16 +44,16 @@ Fork this repo and give it a ⭐ to support SNOWBIRD!
 
 ---
 
-### 🛠  Deployment 
+### ✔️  Deployment 
 
-#### 🟣 Bot hosting net
+#### ✔️ Bot hosting net
 ---
 [![Deploy on Bot hosting net](https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=heroku&logoColor=white)](https://bot-hosting.net/panel)
 
 
 ---
  
-#### 🟣 Video on how to deploy 
+#### ✔️ Video on how to deploy 
 ---
 [![Deploy on Heroku](https://img.shields.io/badge/-Watch-blue?style=for-the-badge&logo=heroku&logoColor=white)](https://youtu.be/2hrm7riEZRg?si=WGfGJp8M6QZ8OsSu)
 
