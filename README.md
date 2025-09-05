@@ -1,9 +1,9 @@
-# ☆𝑺𝒑𝒚-𝑿
+# Lady Bella2
 
 <!-- Glowing Header -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=☣️+☆𝑺𝒑𝒚+𝑿+VERSION;👻+The+Best+Simple+WhatsApp+Bot+Across+The+Glob;💻+Crafted+by+SNOWBIRD💀;🐕‍🦺+Next-Generation+Reliable+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=☣️+Ladybella2+VERSION;👻+The+Best+Simple+WhatsApp+Bot+Across+The+Glob;💻+Crafted+by+SNOWBIRD💀;🐕‍🦺+Next-Generation+Reliable+✅" alt="Typing Animation">
 </h1>
 
 <!-- Banner Image -->
@@ -32,38 +32,38 @@
 ### ⭐ Fork & Star the Repository
 Fork this repo and give it a ⭐ to support SNOWBIRD!
 
-[![Fork Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/SNOWBIRD0074/Spy-X/fork)
+[![Fork Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/SNOWBIRD0074/Lady-Bella2/fork)
 
 ---
 
-### 💙 Pairing Code 💚 Session Generator💜
+### 💙 Pairing Code 💚 Creds Generator💜
 
-[![Pair Code](https://img.shields.io/badge/Google-Pair%20Code-blue?style=for-the-badge&logo=Google)](https://spy-x-pairing-site-onrender-com-s1xz.onrender.com)
-
-
-
----
-
-### 🛠 Step-by-Step Deployment Guide
-
-#### 🟣 Heroku
----
-[![Deploy on Heroku](https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://https://github.com/SNOWBIRD0074/Spy-X)
-
-
----
-
-#### 🟪 Railway
-
-[![Deploy on Railway](https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/login)
+[![Pair Code](https://img.shields.io/badge/Google-Pair%20Code-blue?style=for-the-badge&logo=Google)](https://kkkdjjdjjdjdjdjj.onrender.com)
 
 
 
 ---
 
-#### ⚫ Render
+### 🛠  Deployment 
 
-[![Deploy on Render](https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white)](https://dashboard.render.com)
+#### 🟣 Bot hosting net
+---
+[![Deploy on Bot hosting net](https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white)](https://bot-hosting.net/panel)
+
+
+---
+
+#### 🟪 Tutorial 
+
+[![Video tutorial](https://img.shields.io/badge/-Watch-purple?style=for-the-badge&logo=Video Tutorial&logoColor=white)](https://youtu.be/2hrm7riEZRg?si=WGfGJp8M6QZ8OsSu)
+
+
+
+---
+
+#### ⚫ Any error report
+
+[![Report error](https://img.shields.io/badge/-Report error-black?style=for-the-badge&logo=Report error&logoColor=white)](https://t.me/cyberdevsclubream90)
 
 
 
@@ -83,7 +83,7 @@ Fork this repo and give it a ⭐ to support SNOWBIRD!
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+SPY+X+Edition+by+SNOWBIRD👻;⚡+The+Best+Simple+WhatsApp+Bot+Allover+The+Glob" alt="Footer Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+Lady+Bella2+Edition+by+SNOWBIRD👻;⚡+The+Best+Simple+WhatsApp+Bot+Allover+The+Glob" alt="Footer Animation">
 </h3>
 
 <p align="center">
