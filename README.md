@@ -52,18 +52,10 @@ Fork this repo and give it a ⭐ to support SNOWBIRD!
 
 
 ---
-
-#### 🟪 Tutorial 
-
-[![Video tutorial](https://img.shields.io/badge/-Watch-purple?style=for-the-badge&logo=Video Tutorial&logoColor=white)](https://youtu.be/2hrm7riEZRg?si=WGfGJp8M6QZ8OsSu)
-
-
-
+ 
+#### 🟣 How to deploy 
 ---
-
-#### ⚫ Any error report
-
-[![Report error](https://img.shields.io/badge/-Report error-black?style=for-the-badge&logo=Report error&logoColor=white)](https://t.me/cyberdevsclubream90)
+[![Deploy on Heroku](https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white)](https://youtu.be/2hrm7riEZRg?si=WGfGJp8M6QZ8OsSu)
 
 
 
