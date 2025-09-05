@@ -40,7 +40,11 @@ Fork this repo and give it a ⭐ to support SNOWBIRD!
 
 [![Pair Code](https://img.shields.io/badge/Google-Pair%20Code-blue?style=for-the-badge&logo=Google)](https://kkkdjjdjjdjdjdjj.onrender.com)
 
+---
 
+### ✔️ Download Lady Bella2 zip
+
+[![Deploy on Bot hosting net](https://img.shields.io/badge/-Download-blue?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/SNOWBIRD0074/Lady-Bella2/archive/refs/heads/main.zip)
 
 ---
 
