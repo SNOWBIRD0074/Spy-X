@@ -55,7 +55,7 @@ Fork this repo and give it a ⭐ to support SNOWBIRD!
  
 #### 🟣 How to deploy 
 ---
-[![Deploy on Heroku](https://img.shields.io/badge/-Watch tutorial video-purple?style=for-the-badge&logo=heroku&logoColor=white)](https://youtu.be/2hrm7riEZRg?si=WGfGJp8M6QZ8OsSu)
+[![Deploy on Heroku](https://img.shields.io/badge/-Watch-purple?style=for-the-badge&logo=heroku&logoColor=white)](https://youtu.be/2hrm7riEZRg?si=WGfGJp8M6QZ8OsSu)
 
 
 
