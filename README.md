@@ -13,7 +13,7 @@
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=ᴘʟᴇᴀsᴇ+ғᴏʀᴋ+ᴛʜᴇ+ʀᴇᴘᴏ+ғᴏʀ+ᴍᴏʀᴇ+ᴜᴘᴅᴀᴛᴇs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=PLEASE+FORK+THE+REPO+FOR+MORE+UPDATES)](https://git.io/typing-svg)
 >
 
 ---
